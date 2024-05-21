@@ -11,9 +11,7 @@ This repository contains a Node.js backend using Apollo Server, mongoose, expres
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/node-graphql-backend.git
+git clone https://github.com/Isaiahsylnol/hotel-app-apollo.git
 cd node-graphql-backend
 npm install
-
-https://github.com/Isaiahsylnol/hotel-app-apollo.git
 ```
